@@ -61,4 +61,3 @@ The full stage of the layout was carried out + integration with the finished api
 **https://teg.by/** - Online store Karcher Husqvarna
 Carried a full stage of layout + partial integration with cms Modx Evo.
 
-
